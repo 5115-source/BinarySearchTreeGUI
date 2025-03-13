@@ -1,4 +1,4 @@
-This repo is a collection of GUI test programs when I wanted to make a GUI program representing a binary search tree. But it is also a demo of using a binary search tree in different cases. All finished non GUI programs have the added functionality of asking for user input, but no proper input checker to see if the user inputteed an int as these are meant to be data type demo programs.
+This repo is a collection of GUI test programs when I wanted to make a GUI program representing a binary search tree. But it is also a demo of using a binary search tree in different cases. All finished non GUI programs have the added functionality of asking for user input, but no proper input checker to see if the user inputteed an integer as these are meant to be data type demo programs.
 
 The repo is organized into a somewhat organized file directory. The GUI programs were all for testing purposes and are not in a polished state. The programs in the [BinarySearchTree folder](https://github.com/5115-source/BinarySearchTreeGUI/tree/main/BinarySearchTree) are finished demos of utilizing binary search trees for searching and storing values.
 
